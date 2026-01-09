@@ -6,11 +6,13 @@
 - **CCID:** `dzhao6`
 
 ## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
-
+ `N/A`
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
 | `Yaaqoob Choulli` | `yaaqoob`  |
+
+## Notes
+
+code can be found within the petshop folder via this path: PetShop/app/src/main/java/com/example/petshop
